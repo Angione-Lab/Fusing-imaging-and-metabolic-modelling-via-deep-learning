@@ -46,8 +46,8 @@ pip install -r requirements.txt
 
 ## Installation
 ```bash
-git clone https://github.com/Angione-Lab/Integrated-framework-for-fusing-radiogenomics-and-metabolic-modelling-via-deep-learning.git
-cd Integrated-framework-for-fusing-radiogenomics-and-metabolic-modelling-via-deep-learning
+git clone https://github.com/Angione-Lab/Fusing-imaging-and-metabolic-modelling-via-deep-learning.git
+cd Fusing-imaging-and-metabolic-modelling-via-deep-learning
 ```
 
 ## Feature Reduction
@@ -70,17 +70,21 @@ jupyter notebook RNA_feature_vector.ipynb
 ## Image Segmentation
 
 ### Requirements
-
+```bash
 conda create -n ovarian_unet_py37 python=3.7
 conda activate ovarian_unet_py37
 
 conda install tensorflow-gpu==2.1
-in case got error:
+```
+In case of error:
+
+```bash
+
 conda install tensorflow-estimator=2.1.0
 
 conda install tensorflow-mkl==2.1 (cpu version)
 pip install nibabel SimpleItk matplotlib tqdm
-
+```
 
 Training: 
 ```bash
