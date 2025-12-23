@@ -1,5 +1,5 @@
 
-# Integrated Framework for Fusing Radiogenomics and Metabolic Modelling via Deep Learning in Ovarian Cancer
+# Fusing imaging and metabolic modelling via multimodal deep learning in ovarian cancer
 
 This repository contains the code and data necessary to reproduce the results presented in the paper:
 
