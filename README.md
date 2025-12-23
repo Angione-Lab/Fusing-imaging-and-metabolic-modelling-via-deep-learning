@@ -3,7 +3,7 @@
 
 This repository contains the code and data necessary to reproduce the results presented in the paper:
 
-**N. Eftekhari, S. Verma, A. Saha,  G. Zampieri, S. Sawan, A. Occhipinti, C. Angione, "Fusing imaging and metabolic modelling via multimodal deep learning in ovarian cancer, Cell Systems, 2026"**
+**N. Eftekhari, S. Verma, A. Saha,  G. Zampieri, S. Sawan, A. Occhipinti, C. Angione, "Fusing imaging and metabolic modelling via multimodal deep learning in ovarian cancer", Cell Systems, 2026**
 
 <img src="Images/Fig1-pipeline.jpg" alt="Pipeline Image" width="720" style="display: block; margin-left: auto; margin-right: auto;"/>
 
